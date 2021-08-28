@@ -1,4 +1,4 @@
-package study_2.ex02;
+package week2.ex03;
 
 public class Subject {
 

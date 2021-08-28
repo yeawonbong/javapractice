@@ -1,4 +1,4 @@
-package study_2.ex03;
+package week2.ex04;
 
 public class CoffeeBean {
     private String branch;

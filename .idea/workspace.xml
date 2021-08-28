@@ -1,18 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/ex02/This.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/ex02/ThisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/ex04/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javapractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/week1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1/week1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex01/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex01/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex01/MyDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex01/MyDateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex02/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex02/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex03/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex02/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex03/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex03/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex03/CoffeeBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/CoffeeBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex03/Starbucks.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/Starbucks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex03/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex03/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex03/Subway.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/Subway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex03/TakeTransTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/TakeTransTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xMcClwy5HCPW7muFcwuik0SzED" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,15 +51,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
-    <configuration name="TakeTransTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study_2.ex03.TakeTransTest" />
-      <module name="jv" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/javapractice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThisTest">
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="person.PersonTest" />
+      <module name="week1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study_2.ex03.*" />
+          <option name="PATTERN" value="person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -36,9 +77,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TakeTransTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.ex04.TakeTransTest" />
+      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.ex04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.ex02.ThisTest" />
+      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="javapractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="javapractice" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThisTest" />
         <item itemvalue="Application.TakeTransTest" />
+        <item itemvalue="Application.PersonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -52,10 +134,23 @@
       <updated>1630168273146</updated>
       <workItem from="1630168274736" duration="110000" />
       <workItem from="1630168473133" duration="16000" />
+      <workItem from="1630168820790" duration="49000" />
+      <workItem from="1630168900888" duration="2705000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

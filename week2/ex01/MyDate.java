@@ -1,4 +1,4 @@
-package study_2.ex01;
+package week2.ex01;
 
 public class MyDate{
 
