@@ -3,10 +3,10 @@ package person;
 public class Person {
 
 	String	name;
-	int		age;
 	String	gender;
 	String	married;
 	int		child;
+	int		age;
 	
 	Person() {	
 	}
