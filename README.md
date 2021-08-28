@@ -1,2 +1,0 @@
-# javapractice
-Java Practice
