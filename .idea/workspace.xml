@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/ex02/This.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/ex02/ThisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/ex04/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="week2ex02">
+      <change afterPath="$PROJECT_DIR$/week2/ex02/ThisPerson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javapractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/week1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1/week1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex01/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex01/MyDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex01/MyDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex01/MyDateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex02/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex02/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex03/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex02/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex03/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex03/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex03/CoffeeBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/CoffeeBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex03/Starbucks.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/Starbucks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex03/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex03/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex03/Subway.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/Subway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ex03/TakeTransTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex04/TakeTransTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex02/This.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ex02/ThisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ex02/ThisPersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +48,7 @@
       <recent name="$PROJECT_DIR$/out/production/javapractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThisTest">
+  <component name="RunManager" selected="Application.ThisPersonTest">
     <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="person.PersonTest" />
       <module name="week1" />
@@ -90,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.ex02.ThisTest" />
+    <configuration name="ThisPersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.ex02.ThisPersonTest" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
@@ -118,7 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThisTest" />
+        <item itemvalue="Application.ThisPersonTest" />
         <item itemvalue="Application.TakeTransTest" />
         <item itemvalue="Application.PersonTest" />
       </list>
@@ -135,8 +120,17 @@
       <workItem from="1630168274736" duration="110000" />
       <workItem from="1630168473133" duration="16000" />
       <workItem from="1630168820790" duration="49000" />
-      <workItem from="1630168900888" duration="2705000" />
+      <workItem from="1630168900888" duration="3095000" />
+      <workItem from="1630242049362" duration="2691000" />
     </task>
+    <task id="LOCAL-00001" summary="week2ex02">
+      <created>1630171744958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630171744958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,5 +146,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="week2ex02" />
+    <option name="LAST_COMMIT_MESSAGE" value="week2ex02" />
   </component>
 </project>
