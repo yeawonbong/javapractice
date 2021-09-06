@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="add_javastudy_0906">
-      <change afterPath="$PROJECT_DIR$/week3/ex01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex02/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex03/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex03/CardCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex04/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex05/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex05/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch16/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch16/EmployeeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch18/Company.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch18/CompanyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch19/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch19/CarFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch19/CarFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch20/ArrTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch20/CharArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch21/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch21/BookTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch21/ObjectCopyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch21/ObjectDeepCopyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch23/ArrayListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch24/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch24/StudentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy/ch24/Subject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/ex01/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex01/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/ex02/CompanyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex02/CompanyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/ex03/CardCompanyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex03/CardCompanyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/ex04/ObjectCopy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex04/ObjectCopy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/ex05/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex05/StudentTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="week3_pair_programming_0906" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +191,7 @@
       <workItem from="1630633373869" duration="4211000" />
       <workItem from="1630643373497" duration="4954000" />
       <workItem from="1630722130183" duration="12111000" />
-      <workItem from="1630923001707" duration="9655000" />
+      <workItem from="1630923001707" duration="9895000" />
     </task>
     <task id="LOCAL-00001" summary="week2ex02">
       <created>1630171744958</created>
@@ -246,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630907936808</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="week3_pair_programming_0906">
+      <created>1630932846728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630932846728</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +243,7 @@
     <MESSAGE value="week2ex02" />
     <MESSAGE value="week2ex02_revise" />
     <MESSAGE value="add_javastudy_0906" />
-    <option name="LAST_COMMIT_MESSAGE" value="add_javastudy_0906" />
+    <MESSAGE value="week3_pair_programming_0906" />
+    <option name="LAST_COMMIT_MESSAGE" value="week3_pair_programming_0906" />
   </component>
 </project>
