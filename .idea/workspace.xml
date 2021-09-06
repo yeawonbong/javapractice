@@ -4,31 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="week2ex02_revise">
-      <change afterPath="$PROJECT_DIR$/javastudy/ch16/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch16/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch18/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch18/CompanyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch19/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch19/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch19/CarFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch20/ArrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch20/CharArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch21/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch21/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch21/ObjectCopyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch21/ObjectDeepCopyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch23/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch24/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch24/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy/ch24/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex01/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex02/CompanyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex03/CardCompanyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex04/ObjectCopy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/ex05/StudentTest.java" afterDir="false" />
+    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="add_javastudy_0906">
+      <change afterPath="$PROJECT_DIR$/week3/ex01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/ex02/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/ex03/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/ex03/CardCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/ex04/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/ex05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/ex05/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javapractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javapractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch16/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch16/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch18/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch18/CompanyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch19/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch19/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch19/CarFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch20/ArrTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch20/CharArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch21/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch21/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch21/ObjectCopyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch21/ObjectDeepCopyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch23/ArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch24/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch24/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy/ch24/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/ex01/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex01/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/ex02/CompanyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex02/CompanyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/ex03/CardCompanyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex03/CardCompanyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/ex04/ObjectCopy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex04/ObjectCopy2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/ex05/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/ex05/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +103,7 @@
       <recent name="ch21" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentTest">
+  <component name="RunManager" selected="Application.StudentTest (2)">
     <configuration name="ArrTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch20.ArrTest" />
       <module name="javapractice" />
@@ -110,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch23.ArrayListTest" />
+    <configuration name="CardCompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex03.CardCompanyTest" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch23.*" />
+          <option name="PATTERN" value="ex03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch21.BookTest" />
+    <configuration name="CompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.CompanyTest" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch21.*" />
+          <option name="PATTERN" value="ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectCopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch21.ObjectCopyTest" />
+    <configuration name="ObjectCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex04.ObjectCopy2" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch21.*" />
+          <option name="PATTERN" value="ex04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectDeepCopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch21.ObjectDeepCopyTest" />
+    <configuration name="StudentTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex01.StudentTest" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch21.*" />
+          <option name="PATTERN" value="ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch24.StudentTest" />
+    <configuration name="StudentTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex05.StudentTest" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch24.*" />
+          <option name="PATTERN" value="ex05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.ArrayListTest" />
-        <item itemvalue="Application.ObjectDeepCopyTest" />
-        <item itemvalue="Application.ObjectCopyTest" />
-        <item itemvalue="Application.BookTest" />
+        <item itemvalue="Application.StudentTest (2)" />
+        <item itemvalue="Application.ObjectCopy2" />
+        <item itemvalue="Application.CardCompanyTest" />
+        <item itemvalue="Application.CompanyTest" />
+        <item itemvalue="Application.StudentTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +222,8 @@
       <workItem from="1630543798070" duration="4347000" />
       <workItem from="1630633373869" duration="4211000" />
       <workItem from="1630643373497" duration="4954000" />
-      <workItem from="1630722130183" duration="10943000" />
+      <workItem from="1630722130183" duration="12111000" />
+      <workItem from="1630923001707" duration="9655000" />
     </task>
     <task id="LOCAL-00001" summary="week2ex02">
       <created>1630171744958</created>
@@ -231,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630245158380</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add_javastudy_0906">
+      <created>1630907936808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630907936808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +267,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week2ex02" />
     <MESSAGE value="week2ex02_revise" />
-    <option name="LAST_COMMIT_MESSAGE" value="week2ex02_revise" />
+    <MESSAGE value="add_javastudy_0906" />
+    <option name="LAST_COMMIT_MESSAGE" value="add_javastudy_0906" />
   </component>
 </project>
