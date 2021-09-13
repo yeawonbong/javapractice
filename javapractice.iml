@@ -6,6 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/javastudy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/week2" isTestSource="false" packagePrefix="week2" />
       <sourceFolder url="file://$MODULE_DIR$/week3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week1/2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week1/3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week1/4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week1/ex001" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week4" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

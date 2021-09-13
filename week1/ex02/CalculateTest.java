@@ -1,4 +1,4 @@
-package calculate;
+package ex02;
 
 public class CalculateTest {
 

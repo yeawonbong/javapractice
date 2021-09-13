@@ -1,4 +1,4 @@
-package student;
+package ex03;
 
 public class StudentTest {
 

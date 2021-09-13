@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="week3_pair_programming_0906" />
+    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="week3_pair_programming_0906">
+      <change afterPath="$PROJECT_DIR$/week4/ex01/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/ex01/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/ex01/VIPCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/ex02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/ex03/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/ex03/GoldCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/ex03/VIPCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/ex04/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javapractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javapractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/ex01/Myname.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex01/Myname.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/ex02/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex02/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/ex02/CalculateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex02/CalculateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/ex03/ReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex03/ReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/ex03/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex03/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/ex03/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex03/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/ex04/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex04/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/ex04/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex04/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/week1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/week3.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,10 +86,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week1" />
       <recent name="$PROJECT_DIR$/out/production/javapractice" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ex04" />
+      <recent name="ex03" />
+      <recent name="ex01" />
+      <recent name="ex02" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ch18" />
@@ -71,7 +105,33 @@
       <recent name="ch21" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentTest (2)">
+  <component name="RunManager" selected="Application.AnimalTest (1)">
+    <configuration name="AnimalTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex04.AnimalTest" />
+      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.AnimalTest" />
+      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch20.ArrTest" />
       <module name="javapractice" />
@@ -85,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CardCompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex03.CardCompanyTest" />
+    <configuration name="CustomerListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex03.CustomerListTest" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
@@ -98,34 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02.CompanyTest" />
-      <module name="javapractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObjectCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex04.ObjectCopy2" />
-      <module name="javapractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex01.StudentTest" />
+    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex01.CustomerTest" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
@@ -150,26 +184,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="javapractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="javapractice" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalTest (1)" />
+        <item itemvalue="Application.CustomerListTest" />
+        <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.StudentTest (2)" />
-        <item itemvalue="Application.ObjectCopy2" />
-        <item itemvalue="Application.CardCompanyTest" />
-        <item itemvalue="Application.CompanyTest" />
-        <item itemvalue="Application.StudentTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +212,13 @@
       <workItem from="1630633373869" duration="4211000" />
       <workItem from="1630643373497" duration="4954000" />
       <workItem from="1630722130183" duration="12111000" />
-      <workItem from="1630923001707" duration="9895000" />
+      <workItem from="1630923001707" duration="14314000" />
+      <workItem from="1631436983894" duration="861000" />
+      <workItem from="1631491953742" duration="409000" />
+      <workItem from="1631498004385" duration="508000" />
+      <workItem from="1631498516882" duration="66000" />
+      <workItem from="1631498586746" duration="405000" />
+      <workItem from="1631535890199" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="week2ex02">
       <created>1630171744958</created>
@@ -245,5 +272,24 @@
     <MESSAGE value="add_javastudy_0906" />
     <MESSAGE value="week3_pair_programming_0906" />
     <option name="LAST_COMMIT_MESSAGE" value="week3_pair_programming_0906" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/week4/ex05/AnimalTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/week3/ex05/Student.java</url>
+          <line>40</line>
+          <properties class="ex05.Student" method="addSubject">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

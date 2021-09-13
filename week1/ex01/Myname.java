@@ -1,4 +1,4 @@
-package myname;
+package ex01;
 
 public class Myname {
 
