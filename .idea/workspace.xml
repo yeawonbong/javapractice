@@ -4,34 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="week3_pair_programming_0906">
-      <change afterPath="$PROJECT_DIR$/week4/ex01/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/ex01/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/ex01/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/ex02/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/ex03/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/ex03/GoldCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/ex03/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/ex04/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="193f577f-e813-4737-b5ab-45dbb4a1851e" name="Changes" comment="week4_pair_programming_0913">
+      <change afterPath="$PROJECT_DIR$/week4/ex02/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex01/AICar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex01/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex01/ManualCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex02/AdvancedLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex02/BeginnerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex02/MainBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex02/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex02/PlayerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/ex02/SuperLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javapractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javapractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/ex01/Myname.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex01/Myname.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/ex02/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex02/Calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/ex02/CalculateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex02/CalculateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/ex03/ReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex03/ReferenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/ex03/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex03/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/ex03/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex03/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/ex04/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex04/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/ex04/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/ex04/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/week1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/.idea/week3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/ex01/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/week4/ex01/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/ex01/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week4/ex01/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/ex01/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/week4/ex01/VIPCustomer.java" afterDir="false" />
     </list>
+    <list id="a4434eec-0501-44e8-9361-7adc04773316" name="Changes by giyounglee" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +73,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -93,19 +84,21 @@
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ex01" />
       <recent name="ex04" />
       <recent name="ex03" />
-      <recent name="ex01" />
       <recent name="ex02" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ch18" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex02" />
+      <recent name="ex04" />
       <recent name="ch21" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalTest (1)">
+  <component name="RunManager" selected="Application.CustomerListTest">
     <configuration name="AnimalTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex04.AnimalTest" />
       <module name="javapractice" />
@@ -171,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex05.StudentTest" />
+    <configuration name="MainBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.MainBoard" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex05.*" />
+          <option name="PATTERN" value="ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnimalTest (1)" />
         <item itemvalue="Application.CustomerListTest" />
+        <item itemvalue="Application.MainBoard" />
         <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.AnimalTest (1)" />
         <item itemvalue="Application.CustomerTest" />
-        <item itemvalue="Application.StudentTest (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +211,11 @@
       <workItem from="1631498004385" duration="508000" />
       <workItem from="1631498516882" duration="66000" />
       <workItem from="1631498586746" duration="405000" />
-      <workItem from="1631535890199" duration="291000" />
+      <workItem from="1631535890199" duration="3307000" />
+      <workItem from="1632741783124" duration="17000" />
+      <workItem from="1632741813340" duration="26000" />
+      <workItem from="1632741853905" duration="18524000" />
+      <workItem from="1632838340340" duration="1330000" />
     </task>
     <task id="LOCAL-00001" summary="week2ex02">
       <created>1630171744958</created>
@@ -248,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630932846728</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="week4_pair_programming_0913">
+      <created>1631536236113</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631536236113</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +275,8 @@
     <MESSAGE value="week2ex02_revise" />
     <MESSAGE value="add_javastudy_0906" />
     <MESSAGE value="week3_pair_programming_0906" />
-    <option name="LAST_COMMIT_MESSAGE" value="week3_pair_programming_0906" />
+    <MESSAGE value="week4_pair_programming_0913" />
+    <option name="LAST_COMMIT_MESSAGE" value="week4_pair_programming_0913" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

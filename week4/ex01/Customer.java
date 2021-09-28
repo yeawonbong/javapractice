@@ -5,8 +5,10 @@ public class Customer {
     protected String customerName;
     protected String customerGrade;
     protected int customerId;
+    protected int apple;
 
     public Customer(int customerId, String customerName){
+        apple = 100;
         this.customerId = customerId;
         this.customerName = customerName;
         customerGrade = "SILVER";

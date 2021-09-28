@@ -2,6 +2,7 @@ package ex01;
 
 public class VIPCustomer extends Customer {
     double discountRate;
+    int apple;
     //int agentID;
 
     public VIPCustomer(int customerId, String customerName){
