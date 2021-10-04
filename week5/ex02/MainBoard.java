@@ -11,5 +11,27 @@ public class MainBoard {
         SuperLevel sLevel = new SuperLevel();
         player.upgradeLevel(sLevel);
         player.play(3);
+
+        PlayerLevel test = new PlayerLevel() {
+            @Override
+            protected void showLevelMessage() {
+
+            }
+
+            @Override
+            protected void run() {
+
+            }
+
+            @Override
+            protected void jump() {
+
+            }
+
+            @Override
+            protected void turn() {
+
+            }
+        }
     }
 }

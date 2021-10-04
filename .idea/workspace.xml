@@ -84,7 +84,7 @@
       <recent name="ch21" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomerListTest">
+  <component name="RunManager" selected="Application.MainBoard">
     <configuration name="AnimalTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex04.AnimalTest" />
       <module name="javapractice" />
@@ -165,8 +165,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CustomerListTest" />
         <item itemvalue="Application.MainBoard" />
+        <item itemvalue="Application.CustomerListTest" />
         <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.AnimalTest (1)" />
         <item itemvalue="Application.CustomerTest" />
@@ -201,7 +201,7 @@
       <workItem from="1632741783124" duration="17000" />
       <workItem from="1632741813340" duration="26000" />
       <workItem from="1632741853905" duration="18524000" />
-      <workItem from="1632838340340" duration="1551000" />
+      <workItem from="1632838340340" duration="6255000" />
     </task>
     <task id="LOCAL-00001" summary="week2ex02">
       <created>1630171744958</created>
@@ -245,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632840642649</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="week5_pair_programming_0928">
+      <created>1632840719350</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632840719350</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
